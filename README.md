@@ -1,26 +1,42 @@
-# Job Search Web Application
+# 🚀 SkillNest - Learning Management Platform
 
-A MERN Stack web application for browsing and searching job opportunities.
+SkillNest is a modern full-stack learning platform built using React (frontend) and Node.js/Express (backend).  
+It provides structured learning resources across multiple tech domains.
 
-## Technologies Used
-- MongoDB
-- Express.js
+---
+
+## 🌐 Live Demo
+https://skillnest-frontend-delta.vercel.app
+
+---
+
+## ✨ Features
+
+- 📚 Categorized learning resources
+- 🔍 Search functionality
+- 👨‍💻 Clean modern UI (React + Tailwind)
+- ⚡ Fast performance
+- 📱 Responsive design
+- 🔐 Backend API integration
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
 - React.js
+- Tailwind CSS
+- Axios
+
+**Backend:**
 - Node.js
+- Express.js
+- MongoDB
 
-## Features
-- Job Listings
-- Search Functionality
-- Responsive Design
+---
 
-## Author
-Mehwish Nadeem# Getting Started with Create React App
+## 📁 Project Structure
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
