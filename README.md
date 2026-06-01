@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Job Search Web Application
+
+A MERN Stack web application for browsing and searching job opportunities.
+
+## Technologies Used
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+## Features
+- Job Listings
+- Search Functionality
+- Responsive Design
+
+## Author
+Mehwish Nadeem# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
